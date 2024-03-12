@@ -1,6 +1,8 @@
 # Loan Interest Calculator
 
 ##For DESKTOP only
+
+
 This is a simple web application built with Vue.js that allows users to calculate loan details including monthly payments and amortization schedules based on loan amount, down payment, interest rate, and loan duration.
 
 ## Features
